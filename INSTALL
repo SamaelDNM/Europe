@@ -1,0 +1,9 @@
+Building Europe
+
+See doc/readme-qt.rst for instructions on building Europe QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Europe.
+
+See doc/build-*.txt for instructions on building Europed,
+the intended-for-services, no-graphical-interface, reference
+implementation of Europe.
